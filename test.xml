@@ -5,6 +5,7 @@
 </ModulePrefs>
 <Content type="html">
 <![CDATA[
+<div id="content_div" style="height: 50px;"></div>
 Testing
 ]]>
 </Content>
