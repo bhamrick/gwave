@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Module>
-<ModulePrefs title="Testing" height="50">
+<ModulePrefs title="Testing" height="500">
 <Require feature="wave" />
 </ModulePrefs>
-<Content type="html" height="50">
+<Content type="html" height="500">
 <![CDATA[
-<div id="content_div" style="height: 50px;">
+<div id="content_div" style="height: 500px;">
 Testing
 </div>
 ]]>
